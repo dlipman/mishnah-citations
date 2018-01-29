@@ -1,0 +1,27 @@
+﻿Significant finds of latest version:
+
+[Summary: important mistake (Chullin) fixed, and two new instances found!]
+
+Analyzing Masechta Bava_Kamma
+index 306 ( בושת הכל לפי המבייש והמתבייש) matches 320 ( בושת הכל לפי המבייש והמתבייש)
+[***i.e. not fixed yet!!! (but I always thought it was overkill to bother - see "old results")***]
+
+Analyzing Masechta Bava_Batra
+index 247 ( ואע"ג דאלימי) matches 251 ( אע"ג דאלימי)
+[***i.e. not fixed (same here)***]
+
+index 262 ( (ולא את חרוב המורכב ולא סדן השקמה) matches 265 ( ולא את חרוב המורכב ולא סדן השקמה וכו')
+[***new!!!***]
+[**(and also sort of a mistake, like the one in Sanhedrin 41b; 
+here the editors of the Gemara put the former in parens to show it's not correct)**]
+
+Analyzing Masechta sanhedrin
+index 249 ( מצאו לו זכות כו') (41b) matches 251 ( (מצאו לו זכות כו')) (41b)
+[***i.e. not fixed (as mentioned)***]
+
+Analyzing Masechta Chullin
+[***the mistake no longer appears -- fixed!!!***]
+
+Analyzing Masechta Arakhin
+index 124 ( זה הכלל דבר שהנשמה תלויה בו כו') (20a) matches 130 ( זה הכלל דבר שהנשמה תלויה בו) (20a) 
+[***new!!!***]
