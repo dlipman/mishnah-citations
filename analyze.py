@@ -85,8 +85,8 @@ def analyze_masechta(index):
         # print("Report: " + citeArray.join(". NEXT: "))
 
 def compare_sugs(to_check, against):
-    strip_non_hebrew(to_check)
-    strip_non_hebrew(against)
+    to_check=strip_non_hebrew(to_check)
+    against=strip_non_hebrew(against)
     match = False
     if close_enough(to_check,against):
         match = True
